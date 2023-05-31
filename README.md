@@ -1,8 +1,9 @@
 # CRUD_FastAPI_async_postgreSQL_VueJS c методами CRUD использовал:
 *  SQL db PostgreSQL
-*  React для оформления фронта 
+*  Vue для оформления frontend
 *  Bootstrap оформление стилей
-*  DRF для работы с json
+*  FastAPI для backend
+___
 
 ### Home
 
