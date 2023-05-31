@@ -11,3 +11,16 @@ class CreateUser(BaseModel):
 
     class Config:
         orm_mode = True
+
+
+class CreateInFront(BaseModel):
+    """Валидация данных"""
+    name: str
+
+    class Config:
+        orm_mode = True
+
+
+class UpdateInUser(CreateInFront):
+    """Валидация данных"""
+    id: int
