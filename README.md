@@ -5,6 +5,11 @@
 *  FastAPI для backend
 ___
 
+## Stack:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+
+___
+
 ### Home
 
 <img src="https://github.com/budennovsk/CRUD_FastAPI_async_postgreSQL_VueJS/assets/97764479/8a79d2de-67ba-4ec7-ac09-1e67156b98d1" width=70% height=70%>
