@@ -1,7 +1,7 @@
 # CRUD_FastAPI_async_postgreSQL_VueJS c методами CRUD использовал:
 *  SQL db PostgreSQL
 *  asyncpg
-*  asincio
+*  asyncio
 *  alembic
 *  Vue для оформления frontend
 *  Bootstrap оформление стилей
